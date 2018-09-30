@@ -4,8 +4,8 @@
 
 * Скачайте из репозитория файл Generator.java
 * Откройте консоль и введите следующие команды:
-```cd {путь к файлу}```
-```javac Generator.java```
-```java Generator```
+  * ```cd {путь к файлу}```
+  * ```javac Generator.java```
+  * ```java Generator```
 
 * JDK version 10
